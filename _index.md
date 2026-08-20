@@ -6,11 +6,11 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [mlflow/mlflow](./2026-08-20/mlflow__mlflow.md) | 27 587 | - | 144.6 | Python |
-| [huggingface/transformers](./2026-08-20/huggingface__transformers.md) | 164 268 | - | 144.6 | Python |
-| [vllm-project/vllm](./2026-08-20/vllm-project__vllm.md) | 89 472 | - | 144.6 | Python |
-| [Mintplex-Labs/anything-llm](./2026-08-20/Mintplex-Labs__anything-llm.md) | 64 933 | - | 144.6 | JavaScript |
-| [milvus-io/milvus](./2026-08-20/milvus-io__milvus.md) | 45 701 | - | 144.6 | Go |
-| [ray-project/ray](./2026-08-20/ray-project__ray.md) | 43 561 | - | 144.6 | Python |
-| [sgl-project/sglang](./2026-08-20/sgl-project__sglang.md) | 32 122 | - | 144.6 | Python |
-| [aaif-goose/goose](./2026-08-20/aaif-goose__goose.md) | 53 013 | - | 143.4 | Rust |
+| [manaflow-ai/cmux](./2026-08-20/manaflow-ai__cmux.md) | 26 251 | - | 140.6 | Swift |
+| [superset-sh/superset](./2026-08-20/superset-sh__superset.md) | 13 104 | - | 140.6 | TypeScript |
+| [inngest/inngest](./2026-08-20/inngest__inngest.md) | 5 745 | - | 140.6 | Go |
+| [AtomicBot-ai/atomic-agent](./2026-08-20/AtomicBot-ai__atomic-agent.md) | 2 419 | - | 116.3 | TypeScript |
+| [supabase/cli](./2026-08-20/supabase__cli.md) | 2 390 | - | 111.9 | TypeScript |
+| [Dicklesworthstone/pi_agent_rust](./2026-08-20/Dicklesworthstone__pi_agent_rust.md) | 1 622 | - | 96.0 | Rust |
+| [monosans/proxy-scraper-checker](./2026-08-20/monosans__proxy-scraper-checker.md) | 1 315 | - | 95.7 | Rust |
+| [vellum-ai/vellum-assistant](./2026-08-20/vellum-ai__vellum-assistant.md) | 1 093 | - | 94.3 | TypeScript |
