@@ -6,5 +6,4 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [indmdev/indmshopbot](./2026-08-20/indmdev__indmshopbot.md) | 33 | - | 53.6 | - |
-| [radio-t/super-bot](./2026-08-20/radio-t__super-bot.md) | 67 | - | 52.2 | Go |
+| [apacheli/discord-api-libs](./2026-08-20/apacheli__discord-api-libs.md) | 268 | - | 70.2 | JavaScript |
