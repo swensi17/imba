@@ -6,5 +6,6 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [Leutenegger/watermarks-remover](./2026-08-20/Leutenegger__watermarks-remover.md) | 912 | - | 109.3 | Python |
-| [dsh-market/dsh-market](./2026-08-20/dsh-market__dsh-market.md) | 1 247 | - | 109.0 | TypeScript |
+| [stablyai/orca](./2026-08-20/stablyai__orca.md) | 49 111 | - | 144.6 | TypeScript |
+| [allinurl/goaccess](./2026-08-20/allinurl__goaccess.md) | 20 828 | - | 144.6 | C |
+| [openai/codex-security](./2026-08-20/openai__codex-security.md) | 9 980 | - | 144.6 | TypeScript |
