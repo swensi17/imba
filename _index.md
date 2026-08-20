@@ -6,11 +6,11 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [OpenHands/OpenHands](./2026-08-20/OpenHands__OpenHands.md) | 84 509 | - | 144.6 | TypeScript |
-| [rtk-ai/rtk](./2026-08-20/rtk-ai__rtk.md) | 76 698 | - | 144.6 | Rust |
-| [stablyai/orca](./2026-08-20/stablyai__orca.md) | 49 111 | - | 144.6 | TypeScript |
-| [esengine/DeepSeek-Reasonix](./2026-08-20/esengine__DeepSeek-Reasonix.md) | 34 875 | - | 144.6 | Go |
-| [allinurl/goaccess](./2026-08-20/allinurl__goaccess.md) | 20 828 | - | 144.6 | C |
-| [t8y2/dbx](./2026-08-20/t8y2__dbx.md) | 15 911 | - | 144.6 | Rust |
-| [openai/codex-security](./2026-08-20/openai__codex-security.md) | 9 980 | - | 144.6 | TypeScript |
-| [n8n-io/n8n](./2026-08-20/n8n-io__n8n.md) | 201 219 | - | 140.6 | TypeScript |
+| [diegosouzapw/OmniRoute](./2026-08-20/diegosouzapw__OmniRoute.md) | 51 241 | - | 144.6 | TypeScript |
+| [sickn33/agentic-awesome-skills](./2026-08-20/sickn33__agentic-awesome-skills.md) | 45 152 | - | 144.6 | Python |
+| [PDFMathTranslate/PDFMathTranslate](./2026-08-20/PDFMathTranslate__PDFMathTranslate.md) | 36 228 | - | 144.6 | Python |
+| [HKUDS/Vibe-Trading](./2026-08-20/HKUDS__Vibe-Trading.md) | 31 289 | - | 144.6 | Python |
+| [PrefectHQ/fastmcp](./2026-08-20/PrefectHQ__fastmcp.md) | 27 293 | - | 144.6 | Python |
+| [open-metadata/OpenMetadata](./2026-08-20/open-metadata__OpenMetadata.md) | 14 915 | - | 144.6 | TypeScript |
+| [Thysrael/Horizon](./2026-08-20/Thysrael__Horizon.md) | 8 953 | - | 144.6 | Python |
+| [volcengine/OpenViking](./2026-08-20/volcengine__OpenViking.md) | 30 177 | - | 144.6 | Python |
