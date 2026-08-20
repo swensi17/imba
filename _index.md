@@ -6,8 +6,11 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [flaqai/backlink_skills](./2026-08-20/flaqai__backlink_skills.md) | 274 | - | 98.5 | Python |
-| [browser-use/macos-harness](./2026-08-20/browser-use__macos-harness.md) | 525 | - | 83.9 | Python |
-| [MirroS-Lab/HarnessEval-W](./2026-08-20/MirroS-Lab__HarnessEval-W.md) | 205 | - | 81.1 | Python |
-| [syv-ai/qwen38-27b-rtx3090](./2026-08-20/syv-ai__qwen38-27b-rtx3090.md) | 177 | - | 76.6 | Python |
-| [bawadou/ai-data-extractor](./2026-08-20/bawadou__ai-data-extractor.md) | 374 | - | 75.6 | Python |
+| [mlflow/mlflow](./2026-08-20/mlflow__mlflow.md) | 27 587 | - | 144.6 | Python |
+| [huggingface/transformers](./2026-08-20/huggingface__transformers.md) | 164 268 | - | 144.6 | Python |
+| [vllm-project/vllm](./2026-08-20/vllm-project__vllm.md) | 89 472 | - | 144.6 | Python |
+| [Mintplex-Labs/anything-llm](./2026-08-20/Mintplex-Labs__anything-llm.md) | 64 933 | - | 144.6 | JavaScript |
+| [milvus-io/milvus](./2026-08-20/milvus-io__milvus.md) | 45 701 | - | 144.6 | Go |
+| [ray-project/ray](./2026-08-20/ray-project__ray.md) | 43 561 | - | 144.6 | Python |
+| [sgl-project/sglang](./2026-08-20/sgl-project__sglang.md) | 32 122 | - | 144.6 | Python |
+| [aaif-goose/goose](./2026-08-20/aaif-goose__goose.md) | 53 013 | - | 143.4 | Rust |
