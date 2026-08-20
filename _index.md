@@ -6,5 +6,6 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler](./2026-08-20/LBH-123-AI__Comfyui_Minimax_h3_latent_Upscaler.md) | 152 | - | 79.1 | Python |
-| [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](./2026-08-20/MiaAI-Lab__Qwen3.8-27B-SGLang-DGX-Spark.md) | 181 | - | 73.8 | Python |
+| [opaxial/CVE-2026-9830](./2026-08-20/opaxial__CVE-2026-9830.md) | 258 | - | 70.8 | Python |
+| [air-embodied-brain/Zetta-Embodiment](./2026-08-20/air-embodied-brain__Zetta-Embodiment.md) | 143 | - | 70.5 | Python |
+| [x4gpanell/X4G](./2026-08-20/x4gpanell__X4G.md) | 233 | - | 51.6 | Python |
