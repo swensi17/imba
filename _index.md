@@ -6,11 +6,11 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [cloudposse/atmos](./2026-08-20/cloudposse__atmos.md) | 1 356 | - | 99.5 | Go |
-| [soruly/trace.moe-telegram-bot](./2026-08-20/soruly__trace.moe-telegram-bot.md) | 559 | - | 80.9 | TypeScript |
-| [ImFeH2/flowent](./2026-08-20/ImFeH2__flowent.md) | 242 | - | 66.0 | Python |
-| [indmdev/Free-Telegram-Store-Bot](./2026-08-20/indmdev__Free-Telegram-Store-Bot.md) | 153 | - | 64.2 | Python |
-| [ruizlenato/SmudgeLord](./2026-08-20/ruizlenato__SmudgeLord.md) | 54 | - | 56.2 | Go |
-| [griffinwork40/agent-afk](./2026-08-20/griffinwork40__agent-afk.md) | 52 | - | 56.0 | TypeScript |
-| [Dream-XR/MT5-Post-Trade-Insight-Reporter](./2026-08-20/Dream-XR__MT5-Post-Trade-Insight-Reporter.md) | 118 | - | 54.8 | HTML |
-| [indmdev/Telegram-Store-MiniApp](./2026-08-20/indmdev__Telegram-Store-MiniApp.md) | 38 | - | 54.3 | - |
+| [immich-app/immich](./2026-08-20/immich-app__immich.md) | 111 876 | - | 144.6 | TypeScript |
+| [grafana/grafana](./2026-08-20/grafana__grafana.md) | 76 316 | - | 144.6 | TypeScript |
+| [ruvnet/ruflo](./2026-08-20/ruvnet__ruflo.md) | 68 365 | - | 144.6 | TypeScript |
+| [ChromeDevTools/chrome-devtools-mcp](./2026-08-20/ChromeDevTools__chrome-devtools-mcp.md) | 49 424 | - | 144.6 | TypeScript |
+| [simstudioai/sim](./2026-08-20/simstudioai__sim.md) | 29 437 | - | 144.6 | TypeScript |
+| [screenpipe/screenpipe](./2026-08-20/screenpipe__screenpipe.md) | 21 117 | - | 140.6 | Rust |
+| [agalwood/Motrix](./2026-08-20/agalwood__Motrix.md) | 54 021 | - | 140.6 | TypeScript |
+| [genlayerlabs/genlayer-project-boilerplate](./2026-08-20/genlayerlabs__genlayer-project-boilerplate.md) | 16 225 | - | 117.6 | TypeScript |
