@@ -6,7 +6,5 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [ZSvirt/zsvirt](./2026-08-20/ZSvirt__zsvirt.md) | 1 066 | - | 97.7 | Java |
-| [hairyf/deepseek-harness-desktop](./2026-08-20/hairyf__deepseek-harness-desktop.md) | 602 | - | 93.2 | Rust |
-| [alchaincyf/deepseek-harness-orange-book](./2026-08-20/alchaincyf__deepseek-harness-orange-book.md) | 1 072 | - | 84.8 | HTML |
-| [Alain00/blobatar](./2026-08-20/Alain00__blobatar.md) | 574 | - | 81.4 | TypeScript |
+| [LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler](./2026-08-20/LBH-123-AI__Comfyui_Minimax_h3_latent_Upscaler.md) | 152 | - | 79.1 | Python |
+| [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](./2026-08-20/MiaAI-Lab__Qwen3.8-27B-SGLang-DGX-Spark.md) | 181 | - | 73.8 | Python |
