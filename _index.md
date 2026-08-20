@@ -6,4 +6,4 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [cloudposse/atmos](./2026-08-20/cloudposse__atmos.md) | 1 356 | - | 99.5 | Go |
+| [immich-app/immich](./2026-08-20/immich-app__immich.md) | 111 876 | - | 144.6 | TypeScript |
