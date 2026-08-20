@@ -6,4 +6,6 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [apacheli/discord-api-libs](./2026-08-20/apacheli__discord-api-libs.md) | 268 | - | 70.2 | JavaScript |
+| [nautechsystems/nautilus_trader](./2026-08-20/nautechsystems__nautilus_trader.md) | 26 446 | - | 144.6 | Rust |
+| [chaitanyagiri/munder-difflin](./2026-08-20/chaitanyagiri__munder-difflin.md) | 2 693 | - | 115.9 | TypeScript |
+| [amadeusprotocol/node](./2026-08-20/amadeusprotocol__node.md) | 4 554 | - | 109.4 | Rust |
