@@ -6,11 +6,10 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [yetone/cumora](./2026-08-20/yetone__cumora.md) | 2 683 | - | 141.8 | TypeScript |
-| [s1dashu/ip-as-logo-skill](./2026-08-20/s1dashu__ip-as-logo-skill.md) | 2 078 | - | 139.4 | - |
-| [yjh051108/dsh-routing-suite](./2026-08-20/yjh051108__dsh-routing-suite.md) | 6 298 | - | 135.6 | PowerShell |
-| [xiaobright/dsh-anchored-standard](./2026-08-20/xiaobright__dsh-anchored-standard.md) | 3 638 | - | 129.9 | JavaScript |
-| [cinderline/northcinder](./2026-08-20/cinderline__northcinder.md) | 1 193 | - | 121.3 | JavaScript |
-| [Leutenegger/watermarks-remover](./2026-08-20/Leutenegger__watermarks-remover.md) | 912 | - | 109.3 | Python |
-| [dsh-market/dsh-market](./2026-08-20/dsh-market__dsh-market.md) | 1 247 | - | 109.0 | TypeScript |
-| [SigmanticAI/apex-inference-chip](./2026-08-20/SigmanticAI__apex-inference-chip.md) | 576 | - | 103.4 | Python |
+| [zouyuxuan122/Deepseek-Harness-EAC](./2026-08-20/zouyuxuan122__Deepseek-Harness-EAC.md) | 958 | - | 101.3 | JavaScript |
+| [Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](./2026-08-20/Tiger3807861189__DeepSeek-V4-J-Space-Capability-Realization-Report.md) | 1 018 | - | 99.6 | - |
+| [ZSvirt/zsvirt](./2026-08-20/ZSvirt__zsvirt.md) | 1 066 | - | 97.7 | Java |
+| [wang2122/sprix-sage-router](./2026-08-20/wang2122__sprix-sage-router.md) | 607 | - | 97.3 | Python |
+| [hairyf/deepseek-harness-desktop](./2026-08-20/hairyf__deepseek-harness-desktop.md) | 602 | - | 93.2 | Rust |
+| [alchaincyf/deepseek-harness-orange-book](./2026-08-20/alchaincyf__deepseek-harness-orange-book.md) | 1 072 | - | 84.8 | HTML |
+| [Alain00/blobatar](./2026-08-20/Alain00__blobatar.md) | 574 | - | 81.4 | TypeScript |
