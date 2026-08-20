@@ -6,4 +6,4 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [stretchr/testify](./2026-08-20/stretchr__testify.md) | 26 167 | - | 144.6 | Go |
+| [Infisical/infisical](./2026-08-20/Infisical__infisical.md) | 28 854 | - | 140.6 | TypeScript |
