@@ -6,5 +6,7 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [ImFeH2/flowent](./2026-08-20/ImFeH2__flowent.md) | 242 | - | 66.0 | Python |
-| [griffinwork40/agent-afk](./2026-08-20/griffinwork40__agent-afk.md) | 52 | - | 56.0 | TypeScript |
+| [ruvnet/ruflo](./2026-08-20/ruvnet__ruflo.md) | 68 365 | - | 144.6 | TypeScript |
+| [ChromeDevTools/chrome-devtools-mcp](./2026-08-20/ChromeDevTools__chrome-devtools-mcp.md) | 49 424 | - | 144.6 | TypeScript |
+| [simstudioai/sim](./2026-08-20/simstudioai__sim.md) | 29 437 | - | 144.6 | TypeScript |
+| [screenpipe/screenpipe](./2026-08-20/screenpipe__screenpipe.md) | 21 117 | - | 140.6 | Rust |
