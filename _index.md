@@ -6,6 +6,6 @@ _Обновлено 2026-08-20 UTC_
 
 | Репо | ★ | Сегодня | Score | Язык |
 |---|---:|---:|---:|---|
-| [grafana/grafana](./2026-08-20/grafana__grafana.md) | 76 316 | - | 144.6 | TypeScript |
-| [agalwood/Motrix](./2026-08-20/agalwood__Motrix.md) | 54 021 | - | 140.6 | TypeScript |
-| [genlayerlabs/genlayer-project-boilerplate](./2026-08-20/genlayerlabs__genlayer-project-boilerplate.md) | 16 225 | - | 117.6 | TypeScript |
+| [cilium/cilium](./2026-08-20/cilium__cilium.md) | 24 976 | - | 144.6 | Go |
+| [grafana/loki](./2026-08-20/grafana__loki.md) | 28 766 | - | 144.6 | Go |
+| [TecharoHQ/anubis](./2026-08-20/TecharoHQ__anubis.md) | 21 551 | - | 141.0 | Go |
